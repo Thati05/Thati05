@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/Thati05/Thati05/master/assets/Seithati%20Mokoena%20Banner.png">
 
-<h2> Hey there! I'm Seithati.</h2>
+
+<h2> Hey there! I'm Seithati 👋</h2>
 <h3>Pronounction: See-ta-ti :) </h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
