@@ -3,7 +3,7 @@
 <h2> Hey there! I'm Seithati 👋</h2>
 <h3>Pronounction: See-ta-ti :) </h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Information Systems and Mathematics at the University of South Africa.
