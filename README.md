@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Information Systems and Mathematics at the University of South Africa.
-- 📚 Learning backend web development using NodeJS, ExpressJS, MongoDB, and Artificial Intelligence.
+- 📚 Learning backend web development using NodeJS, ExpressJS, Python, MongoDB, and Artificial Intelligence.
 - 👯 I’m looking for a software development internship.
 - 🌱 &nbsp; I look forward to learning about app development and databases.
 - ✍️ &nbsp; Pursuing UI/UX design as hobbies/side hustles.
@@ -16,6 +16,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
